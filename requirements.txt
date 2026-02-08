@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+pydub
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+openai
+ffmpeg-python
