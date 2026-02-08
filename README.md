@@ -2,9 +2,9 @@
 
 Transcripty é uma aplicação web em **Python + Streamlit** para:
 
--   Gravar reuniões em tempo real pelo navegador\
--   Transcrever automaticamente o áudio utilizando IA\
--   Gerar **resumos estruturados** com os principais pontos e acordos\
+-   Gravar reuniões em tempo real pelo navegador
+-   Transcrever automaticamente o áudio utilizando IA
+-   Gerar **resumos estruturados** com os principais pontos e acordos
 -   Armazenar histórico de reuniões para consulta posterior
 
 O objetivo do projeto é transformar reuniões faladas em **documentação
@@ -14,11 +14,11 @@ clara, organizada e reutilizável**.
 
 ## 🚀 Funcionalidades
 
--   🎤 Gravação de áudio em tempo real via WebRTC\
--   🧠 Transcrição automática com modelo de speech‑to‑text\
--   📝 Geração automática de resumo da reunião\
--   📂 Organização por data e título\
--   🔎 Visualização de reuniões anteriores\
+-   🎤 Gravação de áudio em tempo real via WebRTC
+-   🧠 Transcrição automática com modelo de speech‑to‑text
+-   📝 Geração automática de resumo da reunião
+-   📂 Organização por data e título
+-   🔎 Visualização de reuniões anteriores
 -   ⏱️ Temporizador de gravação em tempo real
 
 ------------------------------------------------------------------------
@@ -27,11 +27,11 @@ clara, organizada e reutilizável**.
 
 Fluxo principal:
 
-1.  Usuário inicia gravação no navegador\
-2.  Áudio é capturado e salvo localmente\
-3.  Trechos são enviados para transcrição automática\
-4.  Texto completo é armazenado\
-5.  Um resumo estruturado é gerado via LLM\
+1.  Usuário inicia gravação no navegador
+2.  Áudio é capturado e salvo localmente
+3.  Trechos são enviados para transcrição automática
+4.  Texto completo é armazenado
+5.  Um resumo estruturado é gerado via LLM
 6.  Reuniões ficam disponíveis para consulta futura
 
 ------------------------------------------------------------------------
@@ -87,11 +87,11 @@ Abra no navegador:
 
 ## 🧠 Tecnologias Utilizadas
 
--   Python\
--   Streamlit\
--   WebRTC\
--   Pydub\
--   Speech‑to‑Text (Whisper ou similar)\
+-   Python
+-   Streamlit
+-   WebRTC
+-   Pydub
+-   Speech‑to‑Text (Whisper ou similar)
 -   LLMs para resumo automático
 
 ------------------------------------------------------------------------
